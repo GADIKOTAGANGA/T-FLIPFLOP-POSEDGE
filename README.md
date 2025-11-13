@@ -1,5 +1,7 @@
 # T-FLIPFLOP-POSEDGE
-
+NAME:G.GANGA DEVI
+REG:212224240042
+DATE:12-11-25
 **AIM:**
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
